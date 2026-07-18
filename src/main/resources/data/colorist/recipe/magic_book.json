@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RBS",
+    "W#G",
+    "S#P"
+  ],
+  "key": {
+    "R": { "item": "colorist:rainbow_dye" },
+    "B": { "item": "colorist:bleak_dye" },
+    "S": { "item": "colorist:grayscale_dye" },
+    "W": { "item": "minecraft:redstone" },
+    "#": { "item": "minecraft:book" },
+    "G": { "item": "minecraft:glowstone_dust" },
+    "P": { "item": "minecraft:gunpowder" }
+  },
+  "result": {
+    "id": "colorist:magic_book",
+    "count": 1
+  }
+}

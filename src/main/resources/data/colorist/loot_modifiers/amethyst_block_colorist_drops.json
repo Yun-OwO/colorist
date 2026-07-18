@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [
+    {
+      "condition": "minecraft:block_state_property",
+      "block": "minecraft:amethyst_block"
+    },
+    {
+      "condition": "minecraft:survives_explosion"
+    }
+  ],
+  "table": "colorist:injections/amethyst_block_colorist_drops"
+}

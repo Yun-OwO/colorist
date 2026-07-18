@@ -1,0 +1,38 @@
+{
+  "itemGroup.colorist": "§d魔§e虹§3术§a导览",
+
+  "item.colorist.rainbow_dye": "§d彩§e虹§3染§a料",
+  "item.colorist.grayscale_dye": "§8阴§7阳§r染料",
+  "item.colorist.bleak_dye": "§d黯§3淡§r染料",
+  "item.colorist.soil_dye": "土色染料",
+
+  "item.colorist.magic_book": "§d魔§e虹§3术§a书",
+  "item.colorist.magic_paper": "§d魔§e虹§3术§a纸",
+  "item.colorist.magic_crystal": "§d魔§e虹§3术§a晶",
+
+  "block.colorist.magic_table": "§d魔§e虹§3术§a台",
+  "block.colorist.magic_crystal_ore": "§d魔§e虹§3矿§a石",
+
+  "colorist.magic_table.placed": "物品已放上魔虹术台",
+  "colorist.magic_table.dyed": "染色成功",
+  "colorist.magic_table.crystal": "术晶已注入，等级提升",
+  "colorist.magic_table.injected": "(%s/%s) 添加术纸成功",
+  "colorist.magic_table.full": "术纸数量已达上限",
+  "colorist.magic_book.insufficient_level": "等级不足以施展魔虹术",
+
+  "colorist.tooltip.level": "等级",
+  "colorist.tooltip.rainbow": "虹彩",
+  "colorist.tooltip.yin_yang": "阴阳",
+  "colorist.tooltip.count": "数量: %s/%s",
+  "colorist.tooltip.hold_shift": "按住shift查看详情",
+  "colorist.tooltip.r": "朱赤: %s",
+  "colorist.tooltip.g": "碧青: %s",
+  "colorist.tooltip.b": "苍蓝: %s",
+  "colorist.tooltip.yin": "阴: %s",
+  "colorist.tooltip.yang": "阳: %s",
+  "colorist.tooltip.cost": "消耗: %s",
+  "colorist.tooltip.atk": "攻击: %s",
+  "colorist.tooltip.hp": "生命: %s",
+  "colorist.tooltip.crit_rate": "暴击率: %s",
+  "colorist.tooltip.crit_dmg": "暴击伤害: %s"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "colorist:colorist_magic_crystal_ore"
+  ],
+  "step": "underground_ores"
+}

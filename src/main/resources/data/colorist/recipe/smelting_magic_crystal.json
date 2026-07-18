@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "colorist:magic_crystal_ore"
+  },
+  "result": {
+    "id": "colorist:magic_crystal"
+  },
+  "experience": 0.5,
+  "cookingtime": 60
+}

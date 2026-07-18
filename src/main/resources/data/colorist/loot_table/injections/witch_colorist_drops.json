@@ -1,0 +1,46 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1.0,
+        "max": 2.0
+      },
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "colorist:magic_paper",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "colorist:magic_paper_attr": {
+                  "r": 0,
+                  "g": 8,
+                  "b": 8,
+                  "brightness": 5,
+                  "darkness": 5,
+                  "level": 0.0,
+                  "color": "#00CCCC"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 2.0,
+        "max": 3.0
+      },
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "colorist:magic_crystal"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      { "item": "minecraft:potato" },
+      { "item": "minecraft:wheat" }
+    ]
+  ],
+  "result": {
+    "id": "colorist:soil_dye",
+    "count": 1
+  }
+}

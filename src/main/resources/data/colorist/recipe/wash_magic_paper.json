@@ -1,0 +1,14 @@
+{
+  "type": "colorist:wash_magic_paper",
+  "category": "building",
+  "group": "colorist:wash_magic_paper",
+  "ingredients": [
+    { "item": "colorist:magic_crystal" },
+    { "item": "colorist:magic_paper" },
+    { "item": "minecraft:white_dye" }
+  ],
+  "result": {
+    "id": "colorist:magic_paper",
+    "count": 1
+  }
+}

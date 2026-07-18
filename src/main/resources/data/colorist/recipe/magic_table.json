@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "COC",
+    "OOO"
+  ],
+  "key": {
+    "B": { "item": "colorist:magic_book" },
+    "C": { "item": "colorist:magic_crystal" },
+    "O": { "item": "minecraft:crying_obsidian" }
+  },
+  "result": {
+    "id": "colorist:magic_table",
+    "count": 1
+  }
+}

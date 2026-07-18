@@ -1,0 +1,38 @@
+{
+  "itemGroup.colorist": "Colorist",
+
+  "item.colorist.rainbow_dye": "Rainbow Dye",
+  "item.colorist.grayscale_dye": "Grayscale Dye",
+  "item.colorist.bleak_dye": "Bleak Dye",
+  "item.colorist.soil_dye": "Soil Dye",
+
+  "item.colorist.magic_book": "Magic Book",
+  "item.colorist.magic_paper": "Magic Paper",
+  "item.colorist.magic_crystal": "Magic Crystal",
+
+  "block.colorist.magic_table": "Magic Table",
+  "block.colorist.magic_crystal_ore": "Magic Crystal Ore",
+
+  "colorist.magic_table.placed": "Item placed on the Magic Table",
+  "colorist.magic_table.dyed": "Dye applied",
+  "colorist.magic_table.crystal": "Crystal injected — level raised",
+  "colorist.magic_table.injected": "(%s/%s) Paper injected",
+  "colorist.magic_table.full": "Magic book is full",
+  "colorist.magic_book.insufficient_level": "Insufficient level to cast",
+
+  "colorist.tooltip.level": "Level",
+  "colorist.tooltip.rainbow": "Rainbow",
+  "colorist.tooltip.yin_yang": "Yin-Yang",
+  "colorist.tooltip.count": "Count: %s/%s",
+  "colorist.tooltip.hold_shift": "Hold Shift for details",
+  "colorist.tooltip.r": "Red: %s",
+  "colorist.tooltip.g": "Green: %s",
+  "colorist.tooltip.b": "Blue: %s",
+  "colorist.tooltip.yin": "Yin: %s",
+  "colorist.tooltip.yang": "Yang: %s",
+  "colorist.tooltip.cost": "Cost: %s",
+  "colorist.tooltip.atk": "ATK: %s",
+  "colorist.tooltip.hp": "HP: %s",
+  "colorist.tooltip.crit_rate": "Crit Rate: %s",
+  "colorist.tooltip.crit_dmg": "Crit Dmg: %s"
+}

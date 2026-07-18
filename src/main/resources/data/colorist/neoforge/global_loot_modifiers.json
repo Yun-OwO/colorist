@@ -1,0 +1,11 @@
+{
+  "entries": [
+    "colorist:witch_colorist_drops",
+    "colorist:creeper_colorist_drops",
+    "colorist:skeleton_colorist_drops",
+    "colorist:warden_colorist_drops",
+    "colorist:enderman_colorist_drops",
+    "colorist:amethyst_block_colorist_drops"
+  ],
+  "replace": false
+}

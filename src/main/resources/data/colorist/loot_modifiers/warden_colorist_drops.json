@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "predicate": {
+        "type": "minecraft:warden"
+      },
+      "entity": "this"
+    }
+  ],
+  "table": "colorist:injections/warden_colorist_drops"
+}
