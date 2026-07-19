@@ -6,6 +6,29 @@ plugins {
     kotlin("jvm") version "2.1.0"
 }
 
+// Project properties from gradle.properties. In Gradle Kotlin DSL these are NOT
+// automatically in scope as bare identifiers (unlike Gradle Groovy DSL), so each
+// one must be declared explicitly via the `by project` delegate.
+val mod_id: String by project
+val mod_name: String by project
+val mod_license: String by project
+val mod_version: String by project
+val mod_group_id: String by project
+val mod_authors: String by project
+val mod_description: String by project
+
+val minecraft_version: String by project
+val minecraft_version_range: String by project
+val neo_version: String by project
+val neo_version_range: String by project
+val loader_version_range: String by project
+
+val kotlinforforge_version: String by project
+val kotlinforforge_version_range: String by project
+
+val parchment_minecraft: String by project
+val parchment_version: String by project
+
 version = mod_version
 group = mod_group_id
 
