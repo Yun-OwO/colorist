@@ -55,9 +55,15 @@ neoForge {
 }
 
 repositories {
+    // Domestic Chinese mirrors (Aliyun) — tried first for faster downloads from inside
+    // mainland China. The original upstream repositories are retained as fallbacks.
+    maven(url = "https://maven.aliyun.com/repository/public")
+    maven(url = "https://maven.aliyun.com/repository/central")
     mavenCentral()
     // Kotlin for Forge — required language provider
     maven(url = "https://thedarkcolour.github.io/KotlinForForge/")
+    // NeoForge artifacts — required by ModDevGradle
+    maven(url = "https://maven.neoforged.net/releases")
 }
 
 dependencies {
